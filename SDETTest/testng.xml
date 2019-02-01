@@ -1,0 +1,7 @@
+<suite name="SDETTest">
+ <test name="Main">
+ <classes>
+ <class name="Main" />
+ </classes>
+ </test>
+</suite>
